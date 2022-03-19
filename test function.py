@@ -1,0 +1,4 @@
+def luas(jari):
+    
+    
+luas()    
